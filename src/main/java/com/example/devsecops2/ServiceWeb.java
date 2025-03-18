@@ -16,7 +16,7 @@ public class ServiceWeb {
         cars.add(car);
         car = new Car("BB22CC", "porsche", 1000);
         cars.add(car);
-        car = new Car("CC33D", "peugeot", 500);
+        car = new Car("CC33DD", "peugeot", 500);
         cars.add(car);
     }
 
